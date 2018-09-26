@@ -32,6 +32,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'SDWebImage', '~> 4.3.3'
-  s.dependency 'YYImage'
+  #s.dependency 'YYImage'
 
 end
